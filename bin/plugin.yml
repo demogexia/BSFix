@@ -1,0 +1,5 @@
+name: BSFix
+author: arvinrhen
+version: 1.0
+main: me.arvinrhen.BSFix.BSFix
+description: A temporary fix for Anvil Duplication Bug. A CrazyEnchantment related bug.
